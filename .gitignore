@@ -1,0 +1,24 @@
+# Backend
+backend/vendor/
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/.env.*.local
+backend/storage/logs/
+backend/bootstrap/cache/
+backend/database.sqlite
+backend/*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+frontend/*.log
+
+# General
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
